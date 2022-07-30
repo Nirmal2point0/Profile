@@ -1,5 +1,5 @@
 body{
-  background-color: #D7E9F7
+  background-color: #D7E9F7 ;
 }
 
 hr {
@@ -7,7 +7,13 @@ hr {
       border-radius: 20px;
       height: 5px;
       background-image: linear-gradient(to right, #f33939, #4f39f3);
-      width: 5%;
+      width: 10%;
       margin-left: auto;
       margin-right: auto;
+}
+
+h1 {
+  color: Olive;
+  text-decoration: underline;
+  text-shadow: 2px 2px 5px White;
 }
